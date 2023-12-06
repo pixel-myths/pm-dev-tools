@@ -1,0 +1,8 @@
+[package]
+name = "pm-dev-tools"
+description = "A small set of plugins for ease of development."
+license = "MIT"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
