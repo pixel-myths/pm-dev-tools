@@ -6,3 +6,7 @@ version = "0.0.0"
 edition = "2021"
 
 [dependencies]
+bevy = "0.11"
+bevy_console = { version = "0.9.0", default-features = false }
+bevy_screen_diags = "0.6.0"
+clap = { version = "4.4.11", features = ["derive"] }
